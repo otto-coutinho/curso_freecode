@@ -20,3 +20,7 @@ O código do projeto pode ser encontrado na pasta [Page_View_Time_Series_Visuali
 ## Sea Level Predictor
 
 O código do projeto pode ser encontrado na pasta [Sea_Level_Predictor](./Sea_Level_Predictor/).
+
+## Certificação
+
+Acesse a minha certificação neste [link](https://www.freecodecamp.org/certification/otto-coutinho/data-analysis-with-python-v7).
